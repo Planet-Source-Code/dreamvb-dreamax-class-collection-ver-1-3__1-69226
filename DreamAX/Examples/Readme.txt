@@ -1,0 +1,1 @@
+This folder is used to house ActiveX and class examples.

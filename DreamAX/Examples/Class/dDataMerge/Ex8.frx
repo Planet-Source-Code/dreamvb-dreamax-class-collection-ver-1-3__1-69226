@@ -1,0 +1,11 @@
+ÿ9How to use this class:
+
+To merge a file into an existing file use:
+ 
+'Merge Picture.gif into demo.exe
+ Merge.MergeTo "C:\demo.exe", "C:\Picture.gif"
+
+To extract a file from a merged file use:
+
+'Extract the merged data from c:\demo.exe to C:\Picture.gif
+ Merge.ExtractTo "C:\demo.exe", "C:\Picture.gif"

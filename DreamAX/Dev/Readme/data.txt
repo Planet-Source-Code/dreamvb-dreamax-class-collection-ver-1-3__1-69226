@@ -1,0 +1,306 @@
+;ActiveX Controls Selections
+;Do not Edit the lines below, Doing so may make information not display correctly.
+
+[ActiveX.d3DLine]
+Info1=Update
+Info2=Added Vertical Line support
+Info3=Add 3D Line support for your applications
+
+[ActiveX.dAnimated Cursor]
+Info1=Old
+Info2=
+Info3=Support of playing animated cursors on your forms
+
+[ActiveX.dBevel]
+Info1=Old
+Info2=
+Info3=Add Bevel effects to your applications
+
+[ActiveX.dBmpStrip]
+Info1=New
+Info2=
+Info3=Support the playing of bitmap strips on your forms
+
+[ActiveX.dBrowse Folder]
+Info1=Old
+Info2=
+Info3=Using the browse for Folder Dialog in your applications
+
+[ActiveX.dButton]
+Info1=Old
+Info2=
+Info3=Stylish Button for your applications
+
+[ActiveX.dCDMenuList]
+Info1=New
+Info2=
+Info3=Styleish List box with support for Icons, Text, Colours
+
+[ActiveX.dChangeIcon]
+Info1=Old
+Info2=
+Info3=Support the Change Icon Dialog Box in your applications
+
+[ActiveX.dCheckBox]
+Info1=Update
+Info2=Added Hover In and Hover Out Events
+Info3=Replacement Checkbox with many features.
+
+[ActiveX.dCheckButton]
+Info1=Old
+Info2=
+Info3=Check Button Control with picture support
+
+[ActiveX.dCheckPanel]
+Info1=New
+Info2=
+Info3=Stylish Panel with support for checkboxes
+
+[ActiveX.dColorButton]
+Info1=Old
+Info2=
+Info3=Button that updates with a selected colour of your choice
+
+[ActiveX.dColorPallete]
+Info1=New
+Info2=
+Info3=MS Paint Style palette for your applications
+
+[ActiveX.dColorPanel]
+Info1=Old
+Info2=
+Info3=Modem Colour Panel control
+
+[ActiveX.dCSV]
+Info1=New
+Info2=Unfinished Control
+Info3=Support Reading and Writing CSV files in your applications
+
+[ActiveX.dCtrColorSet]
+Info1=New
+Info2=
+Info3=Control used to set the colour of all controls on a form
+
+[ActiveX.dDotNetButton]
+Info1=Old
+Info2=
+Info3=VB.NET Style Button
+
+[ActiveX.dFilePatten]
+Info1=Old
+Info2=
+Info3=Control to add file filter support for File List Boxes
+
+[ActiveX.dFlash]
+Info1=Old
+Info2=
+Info3=Control to flash the Title bar of a form
+
+[ActiveX.dFlatButton]
+Info1=Old
+Info2=Few Bug Fixes
+Info3=Flat style button with menu features
+
+[ActiveX.dFormGradient]
+Info1=Old
+Info2=
+Info3=Control to give your form a Gradient effect
+
+[ActiveX.dGradientPanel]
+Info1=Old
+Info2=
+Info3=Add Modem Gradient Panels to your applications
+
+[ActiveX.dID3V1]
+Info1=Old
+Info2=
+Info3=Supports the reading and writing if MP3 ID3 Tags
+
+[ActiveX.dInstallHeader]
+Info1=Old
+Info2=
+Info3=Create Modem style Installers
+
+[ActiveX.dInstallLabel]
+Info1=Old
+Info2=
+Info3=Gives your users a view of the Install process in your applications
+
+[ActiveX.dLed]
+Info1=Old
+Info2=
+Info3=Basic Led Style Control
+
+[ActiveX.dLinkLabel]
+Info1=Old
+Info2=
+Info3=Add hyperlink support to your applications
+
+[ActiveX.dListCheck]
+Info1=New
+Info2=
+Info3= Checklist box with support for headers, Many features.
+
+[ActiveX.dOutLine]
+Info1=New
+Info2=
+Info3=Colour Outline Control
+
+[ActiveX.dPanel]
+Info1=New
+Info2=
+Info3=Add 3D Panels to your applications with many styles.
+
+[ActiveX.dPlayWave]
+Info1=New
+Info2=
+Info3=Allow easy playing of Wave files in your applications
+
+[ActiveX.dProgressBar]
+Info1=Old
+Info2=
+Info3=Basic Process bar Control
+
+[ActiveX.dPropList]
+Info1=Update
+Info2=Resize fixes
+Info3=Gives your applications a Property List.
+
+[ActiveX.dShape]
+Info1=Old
+Info2=
+Info3=Shape Control with a few new features
+
+[ActiveX.dSpinButton]
+Info1=Old
+Info2=
+Info3=Spin button Control
+
+[ActiveX.dStatusbar]
+Info1=Update
+Info2=Added new grip and Styles
+Info3=Lightweight status bar Control
+
+[ActiveX.dSwitch]
+Info1=Update
+Info2=Added support to change off colour
+Info3=Smart little graphic switch button with many features.
+
+[ActiveX.dTabStrip]
+Info1=New
+Info2=
+Info3=Small lightweight tab Strip Control
+
+[ActiveX.dTipOfDay]
+Info1=Old
+Info2=
+Info3=Allow your applications to use a Tip Of The Day Dialog
+
+[ActiveX.dTrafficLight]
+Info1=New
+Info2=
+Info3=Small Traffic Light Control
+
+[ActiveX.dTxtBoxBorder]
+Info1=Old
+Info2=
+Info3=A Textbox control with a colour border
+
+[ActiveX.dValueListEdit]
+Info1=New
+Info2=
+Info3=List Value Editor Control
+
+[ActiveX.dWallpaper]
+Info1=Old
+Info2=
+Info3=Control to give your form a Textured background
+
+[ActiveX.dXorCrypt]
+Info1=New
+Info2=
+Info3=Control to perform simple encryption
+
+[ActiveX.dXPButton]
+Info1=Old
+Info2=
+Info3=XP Style button Control
+
+[ActiveX.dFormAlpha]
+Info1=New
+Info2=
+Info3=Use Alpha forms in your applications
+
+[ActiveX.dDigitStrip]
+Info1=New
+Info2=
+Info3=Support a Digit display in your applications
+
+[ActiveX.dRichEdit]
+Info1=New
+Info2=
+Info3=Allow simple RTF in your appliactions without an OCX
+
+
+;Class Selections
+;Do not Edit the lines below, Doing so may make information not display correctly.
+
+[Class.dChecksum]
+Info1=Old
+Info2=
+Info3=CRC Checksum Class
+
+[Class.dDataMerge]
+Info1=New
+Info2=
+Info3=Class to allow you to append data to the end of an application and Extract it
+
+[Class.dDateLimit]
+Info1=Old
+Info2=
+Info3=Class used to add Time limit to your applications
+
+[Class.dExec]
+Info1=New
+Info2=
+Info3=Class to allow you to execute programs / Open Folders and More.
+
+[Class.dINI]
+Info1=Update
+Info2=Added Rename Selection
+Info3=Class to work with INI files
+
+[Class.dMouseHover]
+Info1=Old
+Info2=
+Info3=Class to add Hover In and Hover Out events to any control
+
+[Class.dRecentList]
+Info1=Old
+Info2=
+Info3=Add recent opened file list to your applications
+
+[Class.dStringContainer]
+Info1=Old
+Info2=
+Info3=String Collection Container with many features
+
+[Class.dTextBoxClass]
+Info1=New
+Info2=This class has now replaced the ActiveX Control
+Info3=Add extra features to the standard Textbox Control
+
+[Class.dTextValidate]
+Info1=New
+Info2=
+Info3=Make your Textboxes support only valid data you set them
+
+[Class.dValueList]
+Info1=Old
+Info2=
+Info3=String collection that can support adding values
+
+[Class.dFileOps]
+Info1=New
+Info2=
+Info3=Large collection of file and path functions to save you many hours of codeing

@@ -1,0 +1,13 @@
+VBGROUP 5.0
+StartupProject=dINI\Ex1.vbp
+Project=dStringContainer\Ex2.vbp
+Project=dDateLimit\Ex3.vbp
+Project=dChecksum\Ex4.vbp
+Project=dMouseHover\Ex5.vbp
+Project=dValueList\Ex6.vbp
+Project=dTextValidate\Ex7.vbp
+Project=dDataMerge\Ex8.vbp
+Project=dRecentList\Ex9.vbp
+Project=dExec\Ex10.vbp
+Project=dTextBoxClass\Ex11.vbp
+Project=dFileOps\Ex12.vbp
